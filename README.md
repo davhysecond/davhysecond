@@ -1,4 +1,4 @@
-## Eae, sou Davhy Andrade, Design Digital e Desenvolvedor Web!
+## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
 <div align="center">
   <a href="https://github.com/davhysecond">
